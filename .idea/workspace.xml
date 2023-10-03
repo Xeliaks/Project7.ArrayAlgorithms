@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61fee8a9-0e96-4d53-b8a5-e0321c007aa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project7.ArrayAlgorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="61fee8a9-0e96-4d53-b8a5-e0321c007aa2" name="Changes" comment="Something" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +27,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Users/Darel/IdeaProjects/Project7.ArrayAlgorithms/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Darel/IdeaProjects/Project7.ArrayAlgorithms/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,6 +40,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696318169084</updated>
     </task>
+    <task id="LOCAL-00001" summary="Something">
+      <option name="closed" value="true" />
+      <created>1696329251319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696329251319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Something" />
+    <option name="LAST_COMMIT_MESSAGE" value="Something" />
   </component>
 </project>

@@ -43,7 +43,7 @@ public class Main {
             return array;
         }
     //Part1.4
-    static void bubbleSort(int[] array, int size)
+    public static void bubbleSort(int[] array, int size)
     {
         int temp;
         boolean swapped;
